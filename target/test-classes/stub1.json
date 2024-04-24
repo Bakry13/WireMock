@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/testEndpoint"
+  },
+  "response": {
+    "status": 200,
+    "body": "Hello! This is a mock response",
+    "headers": {
+      "Content-Type": "text/plain"
+    }
+  }
+}
