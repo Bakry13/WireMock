@@ -10,7 +10,7 @@ import org.junit.Test;
 import static com.github.tomakehurst.wiremock.client.WireMock.*;
 import static io.restassured.RestAssured.given;
 
-public class testStub {
+public class TestStub {
     //1- Start the server
     //2- create stub
     //3- test it using rest assured
